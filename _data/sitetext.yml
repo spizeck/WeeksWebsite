@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Mastering Tradition and Innovation on Saba
-    text: Quality Landscaping, Compassionate Burial Services, and Expert Cistern Repair on Saba. Tradition meets craftsmanship in every service.
+    title: Tradition meets craftsmanship in every service.
+    text:
     button: Tell Me More
     buttonlink: "#services"
 
@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-dove
       - title: "Cistern Repair"
         desc: "Specializing in cistern repair, we ensure your water storage solutions are efficient and reliable. Utilizing our expertise in construction and maintenance, we address leaks, structural issues, and ensure your cisterns are fit for purpose, providing you with a vital resource in our island life."
-        icon: fab fa-tools
+        icon: fas fa-tools
 
   portfolio:
     title: "Portfolio"
