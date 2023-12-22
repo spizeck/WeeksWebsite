@@ -39,58 +39,64 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "The Evolution of Craft: Carlos Weeks' Journey from Burial Services to Building Maintenance and Beyond"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Rooted in Tradition"
+        year: "2000"
+        desc: "Embarking on a vocational journey, Carlos began working alongside his father in burial services on Saba, laying the foundation for his future endeavors and understanding the value of traditional skills."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Expanding Horizons in SXM"
+        year: "2006"
+        desc: "Seeking to broaden his skill set, Carlos moved to SXM for night school. This period was marked by diverse job experiences, nurturing his entrepreneurial spirit and solidifying his commitment to continuous learning and growth."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Rediscovering Construction in Curacao"
+        year: "2013"
+        desc: "Carlos's move to Curacao rekindled his interest in construction, an experience that enriched his expertise and set the stage for his eventual return to Saba with renewed vision and skills."
         image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        alt:
+      - title: "A Homecoming Filled with Opportunities"
+        year: "2014"
+        desc: "Returning to Saba, Carlos immersed himself in commercial fishing and various construction projects, showcasing his versatility and dedication to contributing to the island's development."
         image: assets/img/timeline/4.jpg
         alt:
+      - title: "Upholding a Family Legacy"
+        year: "2015"
+        desc: "Inheriting the burial service business from his father, Carlos continued the respected family tradition, honoring his roots while paving the way for future expansion."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Serving the Community in Vector Control"
+        year: "2016"
+        desc: "Carlos joined the Public Entity in Vector Control, reflecting his commitment to public health and safety, and adding another layer to his multifaceted career."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "A New Venture: Specializing in Cistern Repairs"
+        year: "2021 - Now"
+        desc: "Identifying a niche in cistern repairs, Carlos founded his sole proprietorship, leveraging his diverse skills to offer specialized services that cater to the unique needs of the Saba community."
+        image: assets/img/timeline/4.jpg
+        alt:
+
         # you can enforce the alignment
-        align: right
+        # align: right
     end: "Be Part <br> of Our <br> Story!"
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
+    text: "A Legacy of Service and Skill"
+    body: "Welcome to our world, where tradition blends with innovation, and craftsmanship meets community service. I am Carlos Weeks, the heart and hands behind this sole proprietorship, based in the beautiful and resilient island of Saba. My journey began in 2000, working alongside my father in burial services, where I learned the profound values of respect, dedication, and hard work.
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+After expanding my horizons through education and diverse job experiences in SXM and Curacao, I returned to Saba in 2014, enriched with skills and a broadened perspective. My experience ranges from commercial fishing to construction, each step adding depth to my expertise.
+
+In 2015, I proudly took over the burial service business from my father, upholding a family legacy that has been a cornerstone in our community. My involvement in Vector Control since 2016 further reflects my commitment to public health and safety.
+
+Today, I specialize in repairing cisterns, alongside offering building maintenance, landscaping, and general construction services. My business is not just about providing services; it's about creating value and trust, building relationships, and enhancing the fabric of our community.
+
+Join me in this journey of craftsmanship and community service. Let's build, repair, and maintain, not just structures, but a legacy of quality and care."
+    section: about
 
   team:
     title: "OUR AMAZING TEAM"
