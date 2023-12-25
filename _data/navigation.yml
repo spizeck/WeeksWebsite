@@ -44,8 +44,8 @@ es: &DEFAULT_ES
       section: nosotros
     - title: "Cronología"
       section: cronologia
-    - title: "Equipo"
-      section: equipo
+#    - title: "Equipo"
+#      section: equipo
     - title: "Contáctenos"
       section: contacto
 
