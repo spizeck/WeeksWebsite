@@ -13,8 +13,6 @@ en: &DEFAULT_EN
   header:
     title: Tradition meets craftsmanship in every service.
     text:
-    button: Tell Me More
-    buttonlink: "#services"
 
   services:
     title: "Services"
@@ -42,8 +40,7 @@ en: &DEFAULT_EN
     title: "Timeline"
     text: "The Evolution of Craft: Carlos Weeks' Journey from Burial Services to Building Maintenance and Beyond"
     section: timeline
-    # left is the default
-    #start_align: "left"
+
     events:
       - title: "Rooted in Tradition"
         year: "2000"
@@ -93,44 +90,6 @@ en: &DEFAULT_EN
 
       In 2015, I took the helm of the family's burial service business, upholding a legacy integral to our community. Since 2016, my role in Vector Control has underscored a commitment to public health and safety. Today, my focus is on cistern repair, building maintenance, landscaping, and general construction. My business philosophy transcends mere services; it's about forging trust, nurturing relationships, and enhancing our community's fabric. Join me in a mission to not only build and repair but to cultivate a legacy of quality and care.
     section: about
-
-
-  #  team:
-  #    title: "OUR AMAZING TEAM"
-  #    text: "Lorem ipsum dolor sit amet consectetur."
-  #    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-  #    section: team
-  #    people:
-  #      - name: "Kay Garland"
-  #        role: "Lead Designer"
-  #        image: assets/img/team/500x500.jpg
-  #        social:
-  #          - url: https://twitter.com
-  #            icon: fab fa-twitter
-  #          - url: https://facebook.com
-  #            icon: fab fa-facebook-f
-  #          - url: https://linkedin.com
-  #            icon: fab fa-linkedin-in
-  #      - name: "Larry Parker"
-  #        role: "Lead Marketer"
-  #        image: assets/img/team/2.jpg
-  #        social:
-  #          - url: https://twitter.com
-  #            icon: fab fa-twitter
-  #          - url: https://facebook.com
-  #            icon: fab fa-facebook-f
-  #          - url: https://linkedin.com
-  #            icon: fab fa-linkedin-in
-  #      - name: "Diana Perterson"
-  #        role: "Lead Developer"
-  #        image: assets/img/team/500x500.jpg
-  #        social:
-  #          - url: https://twitter.com
-  #            icon: fab fa-twitter
-  #          - url: https://facebook.com
-  #            icon: fab fa-facebook-f
-  #          - url: https://linkedin.com
-  #            icon: fab fa-linkedin-in
 
   contact:
     title: "Get in Touch"
@@ -199,8 +158,7 @@ es: &DEFAULT_ES
     title: "Cronología"
     text: "La Evolución del Oficio: El Viaje de Carlos Weeks desde los Servicios Funerarios hasta el Mantenimiento de Edificios y Más Allá"
     section: cronologia
-    # left is the default
-    #start_align: "left"
+
     events:
       - title: "Arraigado en la Tradición"
         year: "2000"
@@ -249,65 +207,9 @@ es: &DEFAULT_ES
       En 2015, tomé las riendas del negocio de servicios funerarios de la familia, manteniendo un legado integral para nuestra comunidad. Desde 2016, mi papel en el Control Vectorial ha subrayado un compromiso con la salud pública y la seguridad. Hoy, mi enfoque está en la reparación de cisternas, mantenimiento de edificios, paisajismo y construcción general. Mi filosofía de negocio trasciende los meros servicios; se trata de forjar confianza, nutrir relaciones y mejorar el tejido de nuestra comunidad. Únete a mí en una misión para no solo construir y reparar, sino para cultivar un legado de calidad y cuidado.
     section: about
 
-
-  #  clients:
-  #    section: clientes
-  #    max-height: 100px
-  #    horizontal-scrolling: "" #"yes/no"
-  #    list:
-  #      - title: "envato"
-  #        url: https://github.com/raviriley/agency-jekyll-theme
-  #        logo: assets/img/clients/envato.jpg
-  #      - title: "designmodo"
-  #        url: https://github.com/raviriley/agency-jekyll-theme
-  #        logo: assets/img/clients/designmodo.jpg
-  #      - title: "themeforest"
-  #        url: https://github.com/raviriley/agency-jekyll-theme
-  #        logo: assets/img/clients/themeforest.jpg
-  #      - title: "Creative Market"
-  #        url: https://github.com/raviriley/agency-jekyll-theme
-  #        logo: assets/img/clients/creative-market.jpg
-  #
-  #  team:
-  #    title: "NUESTRO INCREÍBLE EQUIPO"
-  #    text: "Lorem ipsum dolor sit amet consectetur."
-  #    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-  #    section: equipo
-  #    people:
-  #      - name: "Kay Garland"
-  #        role: "Lead Designer"
-  #        image: assets/img/team/500x500.jpg
-  #        social:
-  #          - url: https://twitter.com
-  #            icon: fab fa-twitter
-  #          - url: https://facebook.com
-  #            icon: fab fa-facebook-f
-  #          - url: https://linkedin.com
-  #            icon: fab fa-linkedin-in
-  #      - name: "Larry Parker"
-  #        role: "Lead Marketer"
-  #        image: assets/img/team/2.jpg
-  #        social:
-  #          - url: https://twitter.com
-  #            icon: fab fa-twitter
-  #          - url: https://facebook.com
-  #            icon: fab fa-facebook-f
-  #          - url: https://linkedin.com
-  #            icon: fab fa-linkedin-in
-  #      - name: "Diana Perterson"
-  #        role: "Lead Developer"
-  #        image: assets/img/team/500x500.jpg
-  #        social:
-  #          - url: https://twitter.com
-  #            icon: fab fa-twitter
-  #          - url: https://facebook.com
-  #            icon: fab fa-facebook-f
-  #          - url: https://linkedin.com
-  #            icon: fab fa-linkedin-in
-
   contact:
     title: "Contáctenos"
-    text: "Lorem ipsum or call 123456789"
+    text: "Estamos aquí para ayudarle. Contáctenos para cualquier consulta o para discutir su próximo proyecto."
     section: contacto
     name: "Nombre*"
     name-validation: "Por favor ingrese su nombre."
