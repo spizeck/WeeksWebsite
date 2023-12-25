@@ -32,10 +32,11 @@ en: &DEFAULT_EN
         icon: fas fa-tools
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Our Work"
+    text: "Showcasing our diverse range of projects and expertise. From breathtaking landscapes to robust cistern repairs, each project is a testament to our commitment to quality and community service."
     section: portfolio
     closebutton: "Close Project"
+
 
   timeline:
     title: "Timeline"
@@ -87,57 +88,59 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "A Legacy of Service and Skill"
-    body: "Welcome to our world, where tradition blends with innovation, and craftsmanship meets community service. I am Carlos Weeks, the heart and hands behind this sole proprietorship, based in the beautiful and resilient island of Saba. My journey began in 2000, working alongside my father in burial services, where I learned the profound values of respect, dedication, and hard work.
-
-After expanding my horizons through education and diverse job experiences in SXM and Curacao, I returned to Saba in 2014, enriched with skills and a broadened perspective. My experience ranges from commercial fishing to construction, each step adding depth to my expertise.
-
-In 2015, I proudly took over the burial service business from my father, upholding a family legacy that has been a cornerstone in our community. My involvement in Vector Control since 2016 further reflects my commitment to public health and safety.
-
-Today, I specialize in repairing cisterns, alongside offering building maintenance, landscaping, and general construction services. My business is not just about providing services; it's about creating value and trust, building relationships, and enhancing the fabric of our community.
-
-Join me in this journey of craftsmanship and community service. Let's build, repair, and maintain, not just structures, but a legacy of quality and care."
+    body: >
+      Welcome to our world, where tradition blends with innovation, and craftsmanship meets community service. I am Carlos Weeks, the heart and hands behind this sole proprietorship, based in the beautiful and resilient island of Saba. My journey began in 2000, working alongside my father in burial services, where I learned the profound values of respect, dedication, and hard work.
+      
+      After expanding my horizons through education and diverse job experiences in SXM and Curacao, I returned to Saba in 2014, enriched with skills and a broadened perspective. My experience ranges from commercial fishing to construction, each step adding depth to my expertise.
+      
+      In 2015, I proudly took over the burial service business from my father, upholding a family legacy that has been a cornerstone in our community. My involvement in Vector Control since 2016 further reflects my commitment to public health and safety.
+      
+      Today, I specialize in repairing cisterns, alongside offering building maintenance, landscaping, and general construction services. My business is not just about providing services; it's about creating value and trust, building relationships, and enhancing the fabric of our community.
+      
+      Join me in this journey of craftsmanship and community service. Let's build, repair, and maintain, not just structures, but a legacy of quality and care.
     section: about
 
-  team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+
+  #  team:
+  #    title: "OUR AMAZING TEAM"
+  #    text: "Lorem ipsum dolor sit amet consectetur."
+  #    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+  #    section: team
+  #    people:
+  #      - name: "Kay Garland"
+  #        role: "Lead Designer"
+  #        image: assets/img/team/500x500.jpg
+  #        social:
+  #          - url: https://twitter.com
+  #            icon: fab fa-twitter
+  #          - url: https://facebook.com
+  #            icon: fab fa-facebook-f
+  #          - url: https://linkedin.com
+  #            icon: fab fa-linkedin-in
+  #      - name: "Larry Parker"
+  #        role: "Lead Marketer"
+  #        image: assets/img/team/2.jpg
+  #        social:
+  #          - url: https://twitter.com
+  #            icon: fab fa-twitter
+  #          - url: https://facebook.com
+  #            icon: fab fa-facebook-f
+  #          - url: https://linkedin.com
+  #            icon: fab fa-linkedin-in
+  #      - name: "Diana Perterson"
+  #        role: "Lead Developer"
+  #        image: assets/img/team/500x500.jpg
+  #        social:
+  #          - url: https://twitter.com
+  #            icon: fab fa-twitter
+  #          - url: https://facebook.com
+  #            icon: fab fa-facebook-f
+  #          - url: https://linkedin.com
+  #            icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Get in Touch"
+    text: "We're here to help. Reach out to us for any inquiries or to discuss your next project."
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -150,13 +153,13 @@ Join me in this journey of craftsmanship and community service. Let's build, rep
     subject: "Contact Form Submission"
     submit: "Send Message"
 
-  footer:
-    legal: "Privacy Policy"
-    social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
+
+footer:
+  social:
+    - url: https://www.facebook.com/carlos.weeks.585
+      icon: "fab fa-facebook-f"
+    - url: https://wa.me/+5994165966
+      icon: "fab fa-whatsapp"
 
 en-US:
   <<: *DEFAULT_EN
@@ -229,65 +232,74 @@ es: &DEFAULT_ES
     end: "¡Se parte <br> de Nuestra <br> Historia!"
 
   about:
-    title: "Sobre nosotros"
-    text: "nuestra historia"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: nosotros
+    title: "Sobre Nosotros"
+    text: "Un Legado de Servicio y Habilidad"
+    body: >
+      Bienvenidos a nuestro mundo, donde la tradición se fusiona con la innovación y la artesanía se encuentra con el servicio comunitario. Soy Carlos Weeks, el corazón y las manos detrás de esta empresa unipersonal, ubicada en la hermosa y resiliente isla de Saba. Mi viaje comenzó en el año 2000, trabajando junto a mi padre en servicios funerarios, donde aprendí los profundos valores de respeto, dedicación y trabajo duro.
+      
+      Después de expandir mis horizontes a través de la educación y diversas experiencias laborales en SXM y Curazao, regresé a Saba en 2014, enriquecido con habilidades y una perspectiva ampliada. Mi experiencia abarca desde la pesca comercial hasta la construcción, cada paso añadiendo profundidad a mi experiencia.
+      
+      En 2015, con orgullo tomé el negocio de servicios funerarios de mi padre, manteniendo un legado familiar que ha sido un pilar en nuestra comunidad. Mi participación en el Control Vectorial desde 2016 refleja aún más mi compromiso con la salud pública y la seguridad.
+      
+      Hoy, me especializo en la reparación de cisternas, además de ofrecer mantenimiento de edificios, paisajismo y servicios de construcción general. Mi negocio no se trata solo de proporcionar servicios; se trata de crear valor y confianza, construir relaciones y mejorar el tejido de nuestra comunidad.
+      
+      Únete a mí en este viaje de artesanía y servicio comunitario. Construyamos, reparemos y mantengamos, no solo estructuras, sino un legado de calidad y cuidado.
+    section: about
 
-  clients:
-    section: clientes
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-
-  team:
-    title: "NUESTRO INCREÍBLE EQUIPO"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: equipo
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+  #  clients:
+  #    section: clientes
+  #    max-height: 100px
+  #    horizontal-scrolling: "" #"yes/no"
+  #    list:
+  #      - title: "envato"
+  #        url: https://github.com/raviriley/agency-jekyll-theme
+  #        logo: assets/img/clients/envato.jpg
+  #      - title: "designmodo"
+  #        url: https://github.com/raviriley/agency-jekyll-theme
+  #        logo: assets/img/clients/designmodo.jpg
+  #      - title: "themeforest"
+  #        url: https://github.com/raviriley/agency-jekyll-theme
+  #        logo: assets/img/clients/themeforest.jpg
+  #      - title: "Creative Market"
+  #        url: https://github.com/raviriley/agency-jekyll-theme
+  #        logo: assets/img/clients/creative-market.jpg
+  #
+  #  team:
+  #    title: "NUESTRO INCREÍBLE EQUIPO"
+  #    text: "Lorem ipsum dolor sit amet consectetur."
+  #    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+  #    section: equipo
+  #    people:
+  #      - name: "Kay Garland"
+  #        role: "Lead Designer"
+  #        image: assets/img/team/500x500.jpg
+  #        social:
+  #          - url: https://twitter.com
+  #            icon: fab fa-twitter
+  #          - url: https://facebook.com
+  #            icon: fab fa-facebook-f
+  #          - url: https://linkedin.com
+  #            icon: fab fa-linkedin-in
+  #      - name: "Larry Parker"
+  #        role: "Lead Marketer"
+  #        image: assets/img/team/2.jpg
+  #        social:
+  #          - url: https://twitter.com
+  #            icon: fab fa-twitter
+  #          - url: https://facebook.com
+  #            icon: fab fa-facebook-f
+  #          - url: https://linkedin.com
+  #            icon: fab fa-linkedin-in
+  #      - name: "Diana Perterson"
+  #        role: "Lead Developer"
+  #        image: assets/img/team/500x500.jpg
+  #        social:
+  #          - url: https://twitter.com
+  #            icon: fab fa-twitter
+  #          - url: https://facebook.com
+  #            icon: fab fa-facebook-f
+  #          - url: https://linkedin.com
+  #            icon: fab fa-linkedin-in
 
   contact:
     title: "Contáctenos"
@@ -308,7 +320,7 @@ es: &DEFAULT_ES
     legal: "Política de Privacidad"
     social:
 
-      - url: https://facebook.com
+      - url: https://www.facebook.com/carlos.weeks.585
         icon: "fab fa-facebook-f"
 
 es-ES:
