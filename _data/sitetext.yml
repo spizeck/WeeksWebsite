@@ -11,10 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Mastering Tradition and Innovation on Saba
-    text: Quality Landscaping, Compassionate Burial Services, and Expert Cistern Repair on Saba. Tradition meets craftsmanship in every service.
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Tradition meets craftsmanship in every service.
+    text:
 
   services:
     title: "Services"
@@ -29,20 +27,20 @@ en: &DEFAULT_EN
         icon: fas fa-dove
       - title: "Cistern Repair"
         desc: "Specializing in cistern repair, we ensure your water storage solutions are efficient and reliable. Utilizing our expertise in construction and maintenance, we address leaks, structural issues, and ensure your cisterns are fit for purpose, providing you with a vital resource in our island life."
-        icon: fab fa-tools
+        icon: fas fa-tools
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Our Work"
+    text: "Showcasing our diverse range of projects and expertise. From breathtaking landscapes to robust cistern repairs, each project is a testament to our commitment to quality and community service."
     section: portfolio
     closebutton: "Close Project"
+
 
   timeline:
     title: "Timeline"
     text: "The Evolution of Craft: Carlos Weeks' Journey from Burial Services to Building Maintenance and Beyond"
     section: timeline
-    # left is the default
-    #start_align: "left"
+
     events:
       - title: "Rooted in Tradition"
         year: "2000"
@@ -87,57 +85,15 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "A Legacy of Service and Skill"
-    body: "Welcome to our world, where tradition blends with innovation, and craftsmanship meets community service. I am Carlos Weeks, the heart and hands behind this sole proprietorship, based in the beautiful and resilient island of Saba. My journey began in 2000, working alongside my father in burial services, where I learned the profound values of respect, dedication, and hard work.
+    body: |
+      Welcome to the world of Carlos Weeks, where tradition and innovation converge in a blend of craftsmanship and community service on the island of Saba. Beginning in 2000 with burial services alongside my father, I embraced values of respect, dedication, and hard work. This journey, enriched by diverse experiences in SXM and Curacao, has seen my skills grow from commercial fishing to construction, culminating in my return to Saba in 2014 with a broadened perspective and refined expertise.
 
-After expanding my horizons through education and diverse job experiences in SXM and Curacao, I returned to Saba in 2014, enriched with skills and a broadened perspective. My experience ranges from commercial fishing to construction, each step adding depth to my expertise.
-
-In 2015, I proudly took over the burial service business from my father, upholding a family legacy that has been a cornerstone in our community. My involvement in Vector Control since 2016 further reflects my commitment to public health and safety.
-
-Today, I specialize in repairing cisterns, alongside offering building maintenance, landscaping, and general construction services. My business is not just about providing services; it's about creating value and trust, building relationships, and enhancing the fabric of our community.
-
-Join me in this journey of craftsmanship and community service. Let's build, repair, and maintain, not just structures, but a legacy of quality and care."
+      In 2015, I took the helm of the family's burial service business, upholding a legacy integral to our community. Since 2016, my role in Vector Control has underscored a commitment to public health and safety. Today, my focus is on cistern repair, building maintenance, landscaping, and general construction. My business philosophy transcends mere services; it's about forging trust, nurturing relationships, and enhancing our community's fabric. Join me in a mission to not only build and repair but to cultivate a legacy of quality and care.
     section: about
 
-  team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Get in Touch"
+    text: "We're here to help. Reach out to us for any inquiries or to discuss your next project."
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -150,13 +106,14 @@ Join me in this journey of craftsmanship and community service. Let's build, rep
     subject: "Contact Form Submission"
     submit: "Send Message"
 
+
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
+      - url: https://www.facebook.com/carlos.weeks.585
         icon: "fab fa-facebook-f"
+      - url: https://wa.me/5994165966
+        icon: "fab fa-whatsapp"
 
 en-US:
   <<: *DEFAULT_EN
@@ -199,99 +156,60 @@ es: &DEFAULT_ES
 
   timeline:
     title: "Cronología"
-    text: "Lorem ipsum timeline"
+    text: "La Evolución del Oficio: El Viaje de Carlos Weeks desde los Servicios Funerarios hasta el Mantenimiento de Edificios y Más Allá"
     section: cronologia
-    # left is the default
-    #start_align: "left"
+
     events:
-      - title: "Nuestro Humilde Comienzo"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Arraigado en la Tradición"
+        year: "2000"
+        desc: "Iniciando su trayectoria profesional, Carlos comenzó a trabajar junto a su padre en los servicios funerarios en Saba, sentando las bases para sus futuros empeños y comprendiendo el valor de las habilidades tradicionales."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Una Agencia nace"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Expandiendo Horizontes en SXM"
+        year: "2006"
+        desc: "Buscando ampliar su conjunto de habilidades, Carlos se trasladó a SXM para estudiar en la escuela nocturna. Este período estuvo marcado por diversas experiencias laborales, fomentando su espíritu emprendedor y consolidando su compromiso con el aprendizaje y crecimiento continuos."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "La plantilla Jekyll es creada"
-        year: "2019"
-        desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
+      - title: "Redescubriendo la Construcción en Curazao"
+        year: "2013"
+        desc: "La mudanza de Carlos a Curazao reavivó su interés en la construcción, una experiencia que enriqueció su pericia y preparó el escenario para su eventual regreso a Saba con una visión y habilidades renovadas."
         image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Título"
-        year: "2009-2011"
-        desc: "Su descripción aquí, **Markdown** es soportado completamente."
+        alt:
+      - title: "Un Regreso Lleno de Oportunidades"
+        year: "2014"
+        desc: "Al regresar a Saba, Carlos se sumergió en la pesca comercial y varios proyectos de construcción, mostrando su versatilidad y dedicación para contribuir al desarrollo de la isla."
         image: assets/img/timeline/4.jpg
         alt:
-        # you can enforce the alignment
-        align: right
+      - title: "Manteniendo un Legado Familiar"
+        year: "2015"
+        desc: "Heredando el negocio de servicios funerarios de su padre, Carlos continuó la respetada tradición familiar, honrando sus raíces mientras allanaba el camino para la futura expansión."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Sirviendo a la Comunidad en Control Vectorial"
+        year: "2016"
+        desc: "Carlos se unió a la Entidad Pública en Control Vectorial, reflejando su compromiso con la salud pública y la seguridad, y añadiendo otra capa a su carrera multifacética."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Una Nueva Empresa: Especializándose en Reparaciones de Cisternas"
+        year: "2021 - Ahora"
+        desc: "Identificando un nicho en las reparaciones de cisternas, Carlos fundó su propia empresa unipersonal, aprovechando sus diversas habilidades para ofrecer servicios especializados que atienden las necesidades únicas de la comunidad de Saba."
+        image: assets/img/timeline/4.jpg
+        alt:
+
     end: "¡Se parte <br> de Nuestra <br> Historia!"
 
   about:
-    title: "Sobre nosotros"
-    text: "nuestra historia"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: nosotros
+    title: "Sobre Nosotros"
+    text: "Un Legado de Servicio y Habilidad"
+    body: |
+      Bienvenidos al mundo de Carlos Weeks, donde la tradición y la innovación convergen en una mezcla de artesanía y servicio comunitario en la isla de Saba. Comenzando en el año 2000 con servicios funerarios junto a mi padre, abracé valores de respeto, dedicación y trabajo duro. Este viaje, enriquecido por experiencias diversas en SXM y Curazao, ha visto crecer mis habilidades desde la pesca comercial hasta la construcción, culminando en mi regreso a Saba en 2014 con una perspectiva ampliada y una experiencia refinada.
 
-  clients:
-    section: clientes
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-
-  team:
-    title: "NUESTRO INCREÍBLE EQUIPO"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: equipo
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+      En 2015, tomé las riendas del negocio de servicios funerarios de la familia, manteniendo un legado integral para nuestra comunidad. Desde 2016, mi papel en el Control Vectorial ha subrayado un compromiso con la salud pública y la seguridad. Hoy, mi enfoque está en la reparación de cisternas, mantenimiento de edificios, paisajismo y construcción general. Mi filosofía de negocio trasciende los meros servicios; se trata de forjar confianza, nutrir relaciones y mejorar el tejido de nuestra comunidad. Únete a mí en una misión para no solo construir y reparar, sino para cultivar un legado de calidad y cuidado.
+    section: about
 
   contact:
     title: "Contáctenos"
-    text: "Lorem ipsum or call 123456789"
+    text: "Estamos aquí para ayudarle. Contáctenos para cualquier consulta o para discutir su próximo proyecto."
     section: contacto
     name: "Nombre*"
     name-validation: "Por favor ingrese su nombre."
@@ -307,9 +225,10 @@ es: &DEFAULT_ES
   footer:
     legal: "Política de Privacidad"
     social:
-
-      - url: https://facebook.com
+      - url: https://www.facebook.com/carlos.weeks.585
         icon: "fab fa-facebook-f"
+      - url: https://wa.me/5994165966
+        icon: "fab fa-whatsapp"
 
 es-ES:
   <<: *DEFAULT_ES
