@@ -45,38 +45,38 @@ en: &DEFAULT_EN
       - title: "Rooted in Tradition"
         year: "2000"
         desc: "Embarking on a vocational journey, Carlos began working alongside his father in burial services on Saba, laying the foundation for his future endeavors and understanding the value of traditional skills."
-        image: assets/img/timeline/1.jpg
-        alt:
+#        image: assets/img/timeline/1.jpg
+#        alt:
       - title: "Expanding Horizons in SXM"
         year: "2006"
         desc: "Seeking to broaden his skill set, Carlos moved to SXM for night school. This period was marked by diverse job experiences, nurturing his entrepreneurial spirit and solidifying his commitment to continuous learning and growth."
-        image: assets/img/timeline/2.jpg
-        alt:
+#        image: assets/img/timeline/2.jpg
+#        alt:
       - title: "Rediscovering Construction in Curacao"
         year: "2013"
         desc: "Carlos's move to Curacao rekindled his interest in construction, an experience that enriched his expertise and set the stage for his eventual return to Saba with renewed vision and skills."
-        image: assets/img/timeline/3.jpg
-        alt:
+#        image: assets/img/timeline/3.jpg
+#        alt:
       - title: "A Homecoming Filled with Opportunities"
         year: "2014"
         desc: "Returning to Saba, Carlos immersed himself in commercial fishing and various construction projects, showcasing his versatility and dedication to contributing to the island's development."
-        image: assets/img/timeline/4.jpg
-        alt:
+#        image: assets/img/timeline/4.jpg
+#        alt:
       - title: "Upholding a Family Legacy"
         year: "2015"
         desc: "Inheriting the burial service business from his father, Carlos continued the respected family tradition, honoring his roots while paving the way for future expansion."
-        image: assets/img/timeline/5.jpg
-        alt:
+#        image: assets/img/timeline/5.jpg
+#        alt:
       - title: "Serving the Community in Vector Control"
         year: "2016"
         desc: "Carlos joined the Public Entity in Vector Control, reflecting his commitment to public health and safety, and adding another layer to his multifaceted career."
-        image: assets/img/timeline/6.jpg
-        alt:
+#        image: assets/img/timeline/6.jpg
+#        alt:
       - title: "A New Venture: Specializing in Cistern Repairs"
         year: "2021 - Now"
         desc: "Identifying a niche in cistern repairs, Carlos founded his sole proprietorship, leveraging his diverse skills to offer specialized services that cater to the unique needs of the Saba community."
-        image: assets/img/timeline/7.jpg
-        alt:
+#        image: assets/img/timeline/7.jpg
+#        alt:
 
         # you can enforce the alignment
         # align: right
