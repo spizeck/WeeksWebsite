@@ -65,17 +65,17 @@ en: &DEFAULT_EN
       - title: "Upholding a Family Legacy"
         year: "2015"
         desc: "Inheriting the burial service business from his father, Carlos continued the respected family tradition, honoring his roots while paving the way for future expansion."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/5.jpg
         alt:
       - title: "Serving the Community in Vector Control"
         year: "2016"
         desc: "Carlos joined the Public Entity in Vector Control, reflecting his commitment to public health and safety, and adding another layer to his multifaceted career."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/6.jpg
         alt:
       - title: "A New Venture: Specializing in Cistern Repairs"
         year: "2021 - Now"
         desc: "Identifying a niche in cistern repairs, Carlos founded his sole proprietorship, leveraging his diverse skills to offer specialized services that cater to the unique needs of the Saba community."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/7.jpg
         alt:
 
         # you can enforce the alignment
