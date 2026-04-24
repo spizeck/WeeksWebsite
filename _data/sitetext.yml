@@ -45,37 +45,37 @@ en: &DEFAULT_EN
       - title: "Rooted in Tradition"
         year: "2000"
         desc: "Embarking on a vocational journey, Carlos began working alongside his father in burial services on Saba, laying the foundation for his future endeavors and understanding the value of traditional skills."
-        image: assets/img/timeline/1.jpg
+        icon: fas fa-hands-praying
         alt:
       - title: "Expanding Horizons in SXM"
         year: "2006"
         desc: "Seeking to broaden his skill set, Carlos moved to SXM for night school. This period was marked by diverse job experiences, nurturing his entrepreneurial spirit and solidifying his commitment to continuous learning and growth."
-        image: assets/img/timeline/2.jpg
+        icon: fas fa-graduation-cap
         alt:
       - title: "Rediscovering Construction in Curacao"
         year: "2013"
         desc: "Carlos's move to Curacao rekindled his interest in construction, an experience that enriched his expertise and set the stage for his eventual return to Saba with renewed vision and skills."
-        image: assets/img/timeline/3.jpg
+        icon: fas fa-hard-hat
         alt:
       - title: "A Homecoming Filled with Opportunities"
         year: "2014"
         desc: "Returning to Saba, Carlos immersed himself in commercial fishing and various construction projects, showcasing his versatility and dedication to contributing to the island's development."
-        image: assets/img/timeline/4.jpg
+        icon: fas fa-fish
         alt:
       - title: "Upholding a Family Legacy"
         year: "2015"
         desc: "Inheriting the burial service business from his father, Carlos continued the respected family tradition, honoring his roots while paving the way for future expansion."
-        image: assets/img/timeline/4.jpg
+        icon: fas fa-dove
         alt:
       - title: "Serving the Community in Vector Control"
         year: "2016"
         desc: "Carlos joined the Public Entity in Vector Control, reflecting his commitment to public health and safety, and adding another layer to his multifaceted career."
-        image: assets/img/timeline/4.jpg
+        icon: fas fa-shield-virus
         alt:
       - title: "A New Venture: Specializing in Cistern Repairs"
         year: "2021 - Now"
         desc: "Identifying a niche in cistern repairs, Carlos founded his sole proprietorship, leveraging his diverse skills to offer specialized services that cater to the unique needs of the Saba community."
-        image: assets/img/timeline/4.jpg
+        icon: fas fa-tools
         alt:
 
         # you can enforce the alignment
@@ -163,37 +163,37 @@ es: &DEFAULT_ES
       - title: "Arraigado en la Tradición"
         year: "2000"
         desc: "Iniciando su trayectoria profesional, Carlos comenzó a trabajar junto a su padre en los servicios funerarios en Saba, sentando las bases para sus futuros empeños y comprendiendo el valor de las habilidades tradicionales."
-        image: assets/img/timeline/1.jpg
+        icon: fas fa-hands-praying
         alt:
       - title: "Expandiendo Horizontes en SXM"
         year: "2006"
         desc: "Buscando ampliar su conjunto de habilidades, Carlos se trasladó a SXM para estudiar en la escuela nocturna. Este período estuvo marcado por diversas experiencias laborales, fomentando su espíritu emprendedor y consolidando su compromiso con el aprendizaje y crecimiento continuos."
-        image: assets/img/timeline/2.jpg
+        icon: fas fa-graduation-cap
         alt:
       - title: "Redescubriendo la Construcción en Curazao"
         year: "2013"
         desc: "La mudanza de Carlos a Curazao reavivó su interés en la construcción, una experiencia que enriqueció su pericia y preparó el escenario para su eventual regreso a Saba con una visión y habilidades renovadas."
-        image: assets/img/timeline/3.jpg
+        icon: fas fa-hard-hat
         alt:
       - title: "Un Regreso Lleno de Oportunidades"
         year: "2014"
         desc: "Al regresar a Saba, Carlos se sumergió en la pesca comercial y varios proyectos de construcción, mostrando su versatilidad y dedicación para contribuir al desarrollo de la isla."
-        image: assets/img/timeline/4.jpg
+        icon: fas fa-fish
         alt:
       - title: "Manteniendo un Legado Familiar"
         year: "2015"
         desc: "Heredando el negocio de servicios funerarios de su padre, Carlos continuó la respetada tradición familiar, honrando sus raíces mientras allanaba el camino para la futura expansión."
-        image: assets/img/timeline/4.jpg
+        icon: fas fa-dove
         alt:
       - title: "Sirviendo a la Comunidad en Control Vectorial"
         year: "2016"
         desc: "Carlos se unió a la Entidad Pública en Control Vectorial, reflejando su compromiso con la salud pública y la seguridad, y añadiendo otra capa a su carrera multifacética."
-        image: assets/img/timeline/4.jpg
+        icon: fas fa-shield-virus
         alt:
       - title: "Una Nueva Empresa: Especializándose en Reparaciones de Cisternas"
         year: "2021 - Ahora"
         desc: "Identificando un nicho en las reparaciones de cisternas, Carlos fundó su propia empresa unipersonal, aprovechando sus diversas habilidades para ofrecer servicios especializados que atienden las necesidades únicas de la comunidad de Saba."
-        image: assets/img/timeline/4.jpg
+        icon: fas fa-tools
         alt:
 
     end: "¡Se parte <br> de Nuestra <br> Historia!"
